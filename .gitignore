@@ -1,0 +1,10 @@
+# Ignore python compiled modules
+*.pyc
+
+# Ignore results files *.csv
+*.csv
+
+# Ignore scrapy's cache folder
+.scrapy/httpcache
+
+
